@@ -9,4 +9,4 @@ print("This is the carpet price calculator!")
 width = float(input("Please type in your width: "))
 length = float(input("Please type in your length: "))
 # Calculating and output
-print(f"The cost of your carpet will be {2.25 * (width * length)}")
+print(f"The cost of your carpet will be {2.25 * (width * length)}") 
