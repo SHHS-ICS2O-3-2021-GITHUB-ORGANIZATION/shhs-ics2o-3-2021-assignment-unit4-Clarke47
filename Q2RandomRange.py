@@ -2,7 +2,7 @@
 #NAME OF PROGRAM: random range
 #DATE OF CREATION: 23-01-22
 #PURPOSE OF PROGRAM: user gives two number then I output a random one betwwen the ones givin to me
-import random
+import random    
 # Opening text
 print("Welsome ot the random number generator!")
 #inputs
