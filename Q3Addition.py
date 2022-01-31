@@ -9,8 +9,6 @@ x = random.randint(1, 100)
 y = random.randint(1, 100)
 #Calculating and output
 while g == 10:
-  x = random.randint(1, 100)
-  y = random.randint(1, 100)
   if p == 0:
     print(f"What is {x} + {y}?")
   answer = int(input())
